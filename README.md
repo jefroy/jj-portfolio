@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ced018e6-4aea-4ba1-b70b-008cf69736ba/deploy-status)](https://app.netlify.com/sites/ajays-portfolio/deploys)
+
 <p align="center">
   <a href="https://cara.lekoarts.de">
     <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
